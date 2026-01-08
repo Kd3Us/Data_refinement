@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""02_cleaning.ipynb
-
-# Data Refinement - Nettoyage des données
-"""
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt

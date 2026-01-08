@@ -1,18 +1,3 @@
-# -*- coding: utf-8 -*-
-"""01_exploration.ipynb
-
-# Data Refinement - Exploration des données
-
-**Dataset :** Offres d'emploi Data Science sur Glassdoor  
-
-Ce dataset contient 672 offres d'emploi Data Science collectées sur Glassdoor. L'objectif est de transformer ces données brutes en format exploitable pour des analyses RH fiables sur le marché de l'emploi tech américain.
-
-**Variables cibles pour l'analyse :**
-- Rémunérations par niveau de séniorité
-- Répartition géographique des opportunités  
-- Corrélation taille d'entreprise/salaires
-"""
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
